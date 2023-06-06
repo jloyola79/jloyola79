@@ -1,4 +1,4 @@
-### Hi there 👋
+Hola a todos👋 soy Eduardo actualmente soy QA Engineer y sigo en preparación constante. Este es mi portafolio personal donde  comparto algunos de los proyectos que he realizado. 👋
 
 <!--
 **jloyola79/jloyola79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
