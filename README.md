@@ -2,7 +2,7 @@
   <img src="https://github.com/jloyola79/jloyola79/blob/main/Banner_QA_EL.png" width="800"/>
 </div>
 
-Hola a todos👋 soy Eduardo actualmente soy QA Engineer y sigo en preparación constante. Este es mi portafolio personal donde  comparto algunos de los proyectos que he realizado. 👋
+Hola a todos👋 soy Eduardo actualmente soy QA Engineer y sigo en preparación constante. Este es mi portafolio personal donde  comparto algunos de los proyectos que he realizado. 
 
 🔭 Después de varios años de estar en varias áreas de desarrollo incluyendo GIS y QA me he orientado finalmente a esta área.
 
