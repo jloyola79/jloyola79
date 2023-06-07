@@ -51,26 +51,22 @@ Hola a todos👋 soy Eduardo actualmente soy QA Engineer y sigo en preparación 
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-
-
-  
 </div>
 
-###
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+###
+<!--
 <h3 align="left">🔥   My Stats :</h3>
-
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
 ###
-
-
-
-
+-->
 
 
 
