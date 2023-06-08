@@ -33,7 +33,7 @@ Hola a todos👋 soy Eduardo actualmente soy QA Engineer y sigo en preparación 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-loyola-troncoso-328856bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-loyola-troncoso-328856bb/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eduardo-loyola-troncoso-328856bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= height="30" width="40" /></a>
 </p>
 
 
@@ -94,14 +94,14 @@ Hola a todos👋 soy Eduardo actualmente soy QA Engineer y sigo en preparación 
 
 
 ###
-<!--
+
 <h3 align="left">🔥   My Stats :</h3>
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 ###
--->
+
 
 
 
