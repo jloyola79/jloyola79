@@ -80,11 +80,9 @@ Hola a todos👋 soy Eduardo actualmente soy QA Engineer y sigo en preparación 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jloyola79&show_icons=true&locale=en&layout=compact" alt="jloyola79" /></p>
-  
+ 
   </div>
-  
-  
+
   <div id="header" align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
    </a>
