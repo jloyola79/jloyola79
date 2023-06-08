@@ -36,7 +36,7 @@ Hola a todos👋 soy Eduardo actualmente soy QA Engineer y sigo en preparación 
 <a href="https://www.linkedin.com/in/eduardo-loyola-troncoso-328856bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= height="30" width="40" /></a>
 </p>
 
-
+<br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
