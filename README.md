@@ -93,14 +93,17 @@ Hola a todos👋 soy Eduardo actualmente soy QA Engineer y sigo en preparación 
 <br>
 
 
-###
+<a href="https://git.io/streak-stats" rel="nofollow"><img src="https://camo.githubusercontent.com/9a4d420631d78162f3c11ccc99c350997ca0a2cad6e4a531ec7910c11717a169/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d616e67656c69636176656c657a267468656d653d6461726b266261636b67726f756e643d303030303030" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=jloyola79&amp;theme=dark&amp;background=000000" style="max-width: 100%;"></a>
 
+###
+<!--
 <h3 align="left">🔥   My Stats :</h3>
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 ###
+-->
 
 
 
